@@ -29,12 +29,3 @@
 
 
 
-<hr>
-
-<h2 align="center">👨‍💻 Projects 👨‍💻</h2>
-<br>
-<p align="center">
-  🚀 <a href="https://github.com/manishrathaur/Project1" title="Project 1">Project 1</a> - A brief description here.
-  <br>
-  🌟 <a href="https://github.com/manishrathaur/Project2" title="Project 2">Project 2</a> - A brief description here.
-</p>
