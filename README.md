@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-image: url('https://images.unsplash.com/photo-1440291130810-31fc9b3a406f'); background-size: cover; padding: 50px; border-radius: 10px; color: white; text-align: center;">
 
 ### Hello, There! 👋  
 Hi, I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enthusiast.
