@@ -10,7 +10,7 @@ Hi, I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enth
   <tr>
     <td align="center">
       <a href="mailto:mrathaur704@gmail.com" title="Email">
-        <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email Icon" width="50">
+        <img src="https://img.icons8.com/ios-filled/50/4caf50/new-post.png" alt="Email Icon" width="50">
         <p>Email</p>
       </a>
     </td>
