@@ -1,7 +1,8 @@
 <div align="center">
 
-### Hello, There! 👋  
-Hi, I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enthusiast.
+<h1 style="font-family: 'Courier New', monospace; font-size: 50px; text-align: center; color: #333;">Hello, There! 👋</h1>
+<h2 style="font-family: 'Courier New', monospace; font-size: 40px; text-align: center; color: #333;">Hi, I'm <strong>Manish Rathaur</strong>, a passionate Web Developer and Machine Learning enthusiast.</h2>
+<hr>
 
 ---
 
