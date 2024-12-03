@@ -1,7 +1,7 @@
 <div align="center">
 
-  ## Hello, There! 👋  
-Hi, I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enthusiast.
+  # Hello, There! 👋  
+## Hi, I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enthusiast.
 
 
 ---
