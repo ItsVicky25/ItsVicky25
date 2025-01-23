@@ -1,27 +1,31 @@
 <div align="center">
 
   # Hello, There! 👋  
-## Hi, I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enthusiast.
-
+  ## Hi, I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enthusiast.
 
 ---
 
 ### 📬 Contact Me  
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:mrathaur704@gmail.com" title="Email Me">
-        <img src="https://img.icons8.com/ios-filled/50/4caf50/new-post.png" alt="Email Icon" width="50">
-        <p style="color: #4caf50; font-weight: bold; text-shadow: 0px 0px 8px rgba(76, 175, 80, 0.7);">Email</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/manishrathaur" title="Kaggle Profile">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Kaggle_logo.png" k width="50">
-        <p style="color: #4caf50; font-weight: bold; text-shadow: 0px 0px 8px rgba(76, 175, 80, 0.7);">Kaggle</p>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="mailto:mrathaur704@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-4caf50?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.kaggle.com/manishrathaur" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-4caf50?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://linkedin.com/in/manishrathaur" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4caf50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/_manishrathaur" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-4caf50?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/_manishrathaur" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-4caf50?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/manishrathaur.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-4caf50?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 </div>
