@@ -14,7 +14,11 @@
   <a href="https://www.kaggle.com/manishrathaur" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://linkedin.com/in/manishrathaur" target="_blank">
+  <a href="https://www.linkedin.com/in/
+manish-rathaur-80b40b24a
+www.linkedin.com/in/
+manish-rathaur-80b40b24a
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/_manishrathaur" target="_blank">
