@@ -2,7 +2,6 @@
 
   # Hello, There! 👋  
   ## I'm **Manish Rathaur**, a passionate Web Developer and Machine Learning enthusiast.
-
 ---
 
 ### 📬 Contact Me  
