@@ -5,14 +5,12 @@
 🎯 Turning ideas into reality with **AI & Code** ✨  
 
 ---
-
 ### 🌟 About Me  
 🚀 Passionate about **AI, Web Development, and Problem-Solving**  
 💡 Always learning & exploring **cutting-edge technologies**  
 🔥 Building **DeCo**, a real-time **code execution & learning platform**  
 
 ---
-
 ### 📬 Let's Connect!  
 
 <p align="center">
