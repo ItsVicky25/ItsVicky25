@@ -1,14 +1,33 @@
 <div align="center">
 
 # 🚀 Hello, World! 👋  
-### I'm **Manish Rathaur** – A Web Developer & Machine Learning Enthusiast.  
-🎯 Turning ideas into reality with **AI & Code** ✨  
+### I'm **Manish Rathaur** – AI Engineer & Full-Stack Developer  
+🎯 Turning ideas into reality with **Code & Machine Intelligence** ✨  
 
 ---
 ### 🌟 About Me  
-🚀 Passionate about **AI, Web Development, and Problem-Solving**  
-💡 Always learning & exploring **cutting-edge technologies**  
-🔥 Building **DeCo**, a real-time **code execution & learning platform**  
+🧠 **AI/ML Specialist**: Building intelligent systems and models  
+🖥️ **Full-Stack Developer**: Crafting robust web applications  
+🛠️ **Minecraft Modder**: Developed custom MCP servers and gameplay mechanics  
+✍️ **Technical Writer**: Sharing insights on [Medium](https://medium.com/@yourusername)  
+💡 Passionate about **AI ethics** and **decentralized learning systems**  
+
+---
+### 🔥 Current Projects  
+🤖 **DeCo Platform**: Real-time collaborative coding environment with AI assistance  
+⛏️ **MCP Mod Framework**: Custom Minecraft server architecture for enhanced gameplay  
+📊 **ML-Powered Analytics**: Transforming raw data into actionable business insights  
+
+---
+### 🛠️ Tech Stack  
+`Python` `TensorFlow` `React` `Node.js` `MongoDB` `Docker` `MCP Server Tools`  
+`Scikit-Learn` `AWS` `Three.js` `LLMs` `Pandas` `Git`  
+
+---
+### ✍️ Latest Medium Articles  
+▶️ [Building AI-Powered Minecraft Servers](https://medium.com/@yourusername)  
+▶️ [Machine Learning Deployment Patterns](https://medium.com/@yourusername)  
+▶️ [Real-time Collaboration Systems Architecture](https://medium.com/@yourusername)  
 
 ---
 ### 📬 Let's Connect!  
@@ -23,15 +42,17 @@
   <a href="https://www.linkedin.com/in/manish-rathaur-80b40b24a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/manishrathaur10/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-
 ---
 
-🔹 **Fun Fact**: "AI won't replace humans, but humans with AI will!" 🤖  
+🔹 **Fun Fact**: "I once trained an AI to play Minecraft better than me!" ⛏️🤖  
 🚀 Let's build the future together!  
 
 </div>
