@@ -24,8 +24,8 @@
         <br>Spring
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=hibernate" width="48" alt="Hibernate"/>
-        <br>Hibernate
+       <img src="https://skillicons.dev/icons?i=react" width="48" alt="React.js"/>
+<br>React.js
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" alt="MySQL"/>
@@ -36,7 +36,7 @@
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongo-icon.svg" width="65" alt="MongoDB"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65" alt="MongoDB"/>
         <br>MongoDB
       </td>
     </tr>
@@ -58,12 +58,12 @@
         <br>AWS
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" alt="GCP"/>
-        <br>GCP
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
+<br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" alt="Azure"/>
-        <br>Azure
+       <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
+<br>Python
       </td>
     </tr>
     <tr>
@@ -84,12 +84,12 @@
         <br>Kafka
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redis-icon.svg" width="65" alt="Redis"/>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="65" alt="Redis"/>
         <br>Redis
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" alt="Nginx"/>
-        <br>Nginx
+     <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="65" alt="IntelliJ IDEA"/>
+<br>IntelliJ IDEA
       </td>
     </tr>
   </table>
@@ -101,43 +101,69 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
 
-### 📌 Latest Articles on [Medium](https://medium.com/@manishrathaur10)
+## 📝 Latest Articles
 
-<table>
-  <tr>
-    <td>
-      <a href="https://medium.com/@manishrathaur10">
-        <img src="https://img.shields.io/badge/NEW-FF5722?style=flat&logo=firebase&logoColor=white" />
-        <strong>Spring Boot Best Practices: A Developer's Guide</strong>
-      </a><br/>
-      <sub>📖 10 min read · 💡 Java · Spring Boot</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://medium.com/@manishrathaur10">
-        <img src="https://img.shields.io/badge/TUTORIAL-4CAF50?style=flat&logo=spring&logoColor=white" />
-        <strong>Building RESTful APIs with Spring Boot</strong>
-      </a><br/>
-      <sub>📖 15 min read · 🔧 Backend Development</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://medium.com/@manishrathaur10">
-        <img src="https://img.shields.io/badge/GUIDE-2196F3?style=flat&logo=docker&logoColor=white" />
-        <strong>Dockerizing Your Java Applications</strong>
-      </a><br/>
-      <sub>📖 8 min read · 🐳 Docker · DevOps</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=F7F7F7,FFFFFF,EBEBEB&center=true&width=500&lines=AI%2FML+Enthusiast;Demystifying+Technology;Simple+Insights" alt="Typing SVG" />
+</div>
+<br>
 
-<p align="center">
-  <a href="https://medium.com/@manishrathaur10">
-    <img src="https://img.shields.io/badge/Read%20All%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img width="280" height="160" src="https://via.placeholder.com/280x160/FF6B35/FFFFFF?text=AI%2FML+Research+Insights" style="border-radius: 12px;" />
+        <br><br>
+        <h3>🤖 AI/ML Research Insights</h3>
+        <p><em>Demystifying artificial intelligence with simple explanations</em></p>
+        <img src="https://img.shields.io/badge/AI%2FML-FF6B35?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Research-4CAF50?style=flat" />
+        <br><br>
+        <a href="https://manishrathaur10.medium.com/">
+          <img src="https://img.shields.io/badge/👏_Read_More-FF6B35?style=for-the-badge&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://manishrathaur10.medium.com/">
+          <img src="https://img.shields.io/badge/View_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+        </a>
+      </td>
+      <td align="center" width="300">
+        <img width="280" height="160" src="https://via.placeholder.com/280x160/2196F3/FFFFFF?text=Technology+Breakthroughs" style="border-radius: 12px;" />
+        <br><br>
+        <h3>🚀 Technology Breakthroughs</h3>
+        <p><em>Sharing latest tech advancements and inspiring your AI journey</em></p>
+        <img src="https://img.shields.io/badge/Technology-2196F3?style=flat&logo=gear&logoColor=white" />
+        <img src="https://img.shields.io/badge/Innovation-4CAF50?style=flat" />
+        <br><br>
+        <a href="https://manishrathaur10.medium.com/">
+          <img src="https://img.shields.io/badge/👏_Explore-2196F3?style=for-the-badge&logoColor=white" />
+        </a>
+        <br>
+        <a href="https://manishrathaur10.medium.com/">
+          <img src="https://img.shields.io/badge/View_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🧠 Join the AI Journey</h3>
+  <a href="https://manishrathaur10.medium.com/">
+    <img src="https://img.shields.io/badge/✍️_Follow_for_AI_Insights-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-</p>
+  <a href="https://manishrathaur10.medium.com/">
+    <img src="https://img.shields.io/badge/🔔_Get_Notified-FF5722?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/🤖_AI%2FML_Focus-success?style=flat-square&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/💡_Simple_Insights-orange?style=flat-square&logo=lightbulb" />
+  <img src="https://img.shields.io/badge/🔬_Research_Based-blue?style=flat-square&logo=microscope" />
+  <br>
+  <sub>🚀 <strong>"Demystifying technology with simple insights"</strong> • AI/ML Enthusiast</sub>
+</div>
 
 ## 🔥 Current Projects
 
