@@ -169,43 +169,59 @@
 
 <table>
   <tr>
+   <td width="33%" valign="top">
+  <div align="center">
+    <img src="https://img.shields.io/badge/🤖_Mitra_Bot-Active-00C853?style=for-the-badge" />
+    <br><br>
+    <b>AI Customer Support Assistant</b><br>
+    <sub>Advanced RAG-powered chatbot with multi-format document processing</sub><br><br>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+    <br>
+  </div>
+</td>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/🤖_DeCo_Platform-Active-00C853?style=for-the-badge" />
-        <br><br>
-        <b>Real-Time Collaboration</b><br>
-        <sub>Collaborative coding environment with AI assistance</sub><br><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Progress-75%25-yellow?style=flat-square" />
-      </div>
+      <div align="center">
+  <img src="https://img.shields.io/badge/🎨_Artify_Studio-AI_Powered-6B5BFF?style=for-the-badge" />
+  <br><br>
+  <b>AI Image Transformation Platform</b><br>
+  <sub>Neural style transfer for stunning digital artworks</sub><br><br>
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <br>
+</div>
     </td>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/⛏️_MCP_Mod_Framework-In_Development-FF6B6B?style=for-the-badge" />
-        <br><br>
-        <b>Minecraft Server Architecture</b><br>
-        <sub>Custom framework for enhanced gameplay</sub><br><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spigot-FF9900?style=flat" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Progress-60%25-orange?style=flat-square" />
-      </div>
-    </td>
-    <td width="33%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/📊_ML_Analytics-Beta-4ECDC4?style=for-the-badge" />
-        <br><br>
-        <b>ML-Powered Analytics</b><br>
-        <sub>Transform data into business insights</sub><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Progress-85%25-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎮_Manvik-In_Development-FF6B6B?style=for-the-badge" />
+  <br><br>
+  <b>2D Tactical Team Shooter</b><br>
+  <sub>Strategic combat with team coordination focus</sub><br><br>
+  
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photon-004480?style=flat&logo=photon&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Mirror-5865F2?style=flat" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat" />
+  <br>
+  <img src="https://img.shields.io/badge/Progress-25%25-orange?style=flat-square" />
+</div>
       </div>
     </td>
   </tr>
