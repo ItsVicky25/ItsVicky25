@@ -103,67 +103,6 @@
 
 ## 📝 Latest Articles
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=F7F7F7,FFFFFF,EBEBEB&center=true&width=500&lines=AI%2FML+Enthusiast;Demystifying+Technology;Simple+Insights" alt="Typing SVG" />
-</div>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img width="280" height="160" src="https://via.placeholder.com/280x160/FF6B35/FFFFFF?text=AI%2FML+Research+Insights" style="border-radius: 12px;" />
-        <br><br>
-        <h3>🤖 AI/ML Research Insights</h3>
-        <p><em>Demystifying artificial intelligence with simple explanations</em></p>
-        <img src="https://img.shields.io/badge/AI%2FML-FF6B35?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Research-4CAF50?style=flat" />
-        <br><br>
-        <a href="https://manishrathaur10.medium.com/">
-          <img src="https://img.shields.io/badge/👏_Read_More-FF6B35?style=for-the-badge&logoColor=white" />
-        </a>
-        <br>
-        <a href="https://manishrathaur10.medium.com/">
-          <img src="https://img.shields.io/badge/View_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="300">
-        <img width="280" height="160" src="https://via.placeholder.com/280x160/2196F3/FFFFFF?text=Technology+Breakthroughs" style="border-radius: 12px;" />
-        <br><br>
-        <h3>🚀 Technology Breakthroughs</h3>
-        <p><em>Sharing latest tech advancements and inspiring your AI journey</em></p>
-        <img src="https://img.shields.io/badge/Technology-2196F3?style=flat&logo=gear&logoColor=white" />
-        <img src="https://img.shields.io/badge/Innovation-4CAF50?style=flat" />
-        <br><br>
-        <a href="https://manishrathaur10.medium.com/">
-          <img src="https://img.shields.io/badge/👏_Explore-2196F3?style=for-the-badge&logoColor=white" />
-        </a>
-        <br>
-        <a href="https://manishrathaur10.medium.com/">
-          <img src="https://img.shields.io/badge/View_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🧠 Join the AI Journey</h3>
-  <a href="https://manishrathaur10.medium.com/">
-    <img src="https://img.shields.io/badge/✍️_Follow_for_AI_Insights-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://manishrathaur10.medium.com/">
-    <img src="https://img.shields.io/badge/🔔_Get_Notified-FF5722?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/🤖_AI%2FML_Focus-success?style=flat-square&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/💡_Simple_Insights-orange?style=flat-square&logo=lightbulb" />
-  <img src="https://img.shields.io/badge/🔬_Research_Based-blue?style=flat-square&logo=microscope" />
-  <br>
-  <sub>🚀 <strong>"Demystifying technology with simple insights"</strong> • AI/ML Enthusiast</sub>
-</div>
 
 ## 🔥 Current Projects
 
