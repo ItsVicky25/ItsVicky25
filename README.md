@@ -45,20 +45,20 @@
     <td width="33%" valign="top">
       <div align="center">
       <div align="center">
-  <img src="https://img.shields.io/badge/🎨_Artify_Studio-AI_Powered-6B5BFF?style=for-the-badge" />
-  <br><br>
-  <b>AI Image Transformation Platform</b><br>
-  <sub>Neural style transfer for stunning digital artworks</sub><br><br>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <br>
+ <img src="https://img.shields.io/badge/🧠_BrainMark-AI_Powered-00C853?style=for-the-badge" />
+<br><br>
+<b>AI Tab Management & Research Assistant</b><br>
+<sub>Chrome Built-in AI for intelligent tab organization</sub><br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_AI-4285F4?style=flat&logo=google-chrome&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Manifest_V3-34A853?style=flat&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/MIT_License-green?style=flat&logo=open-source-initiative&logoColor=white" />
+<br>
 </div>
     </td>
     <td width="33%" valign="top">
