@@ -28,7 +28,9 @@
   <tr>
    <td width="33%" valign="top">
   <div align="center">
+<a href="https://github.com/Rawdyrathaur/mitra-bot" target="_blank">
     <img src="https://img.shields.io/badge/🤖_Mitra_Bot-Active-00C853?style=for-the-badge" />
+</a>
     <br><br>
     <b>AI Customer Support Assistant</b><br>
     <sub>Advanced RAG-powered chatbot with multi-format document processing</sub><br><br>
@@ -45,7 +47,9 @@
     <td width="33%" valign="top">
       <div align="center">
       <div align="center">
- <img src="https://img.shields.io/badge/🧠_BrainMark-AI_Powered-00C853?style=for-the-badge" />
+<a href="https://github.com/Rawdyrathaur/Brainmark" target="_blank">
+    <img src="https://img.shields.io/badge/🧠_BrainMark-AI_Powered-00C853?style=for-the-badge" />
+</a>
 <br><br>
 <b>AI Tab Management & Research Assistant</b><br>
 <sub>Chrome Built-in AI for intelligent tab organization</sub><br><br>
@@ -64,7 +68,9 @@
     <td width="33%" valign="top">
       <div align="center">
       <div align="center">
-  <img src="https://img.shields.io/badge/🎮_Manvik-In_Development-FF6B6B?style=for-the-badge" />
+ <a href="https://github.com/manwic" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Manvik-In_Development-FF6B6B?style=for-the-badge" />
+</a>
   <br><br>
   <b>2D Tactical Team Shooter</b><br>
   <sub>Strategic combat with team coordination focus</sub><br><br>
