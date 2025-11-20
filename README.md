@@ -1,25 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=150&section=header&text=Hi%20👋%20I'm%20Manish&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</div>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=F75C7EFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=A+passionate+Java+Developer;Building+the+future+with+code;Innovation+through+technology" alt="Gradient Typing" />
-</h3>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-<div>
- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-<div align="center">
-  
+# Hi there 👋, I'm Manish
 
-## ✍️ Technical Writing by Manish Rathaur
+A **passionate Java Developer** building the future with code.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-</div>
+  ## <img src="https://s11.aconvert.com/convert/p3r68-cdx67/3jzpf-25zq6-001.ico" width="28" align="center" /> Tab Story
 
-## 📝 Latest Articles
+Stop copying URLs to Notepad. Save important tabs and find them weeks later without Chrome's 100+ -entry history mess.
+ 
+[![Available in the Chrome Web Store](https://i0.wp.com/yonatankra.com/wp-content/uploads/2022/08/chrome-webstore.png?w=496&ssl=1)](YOUR_CHROME_STORE_LINK)
 
 
 ## 🔥 Current Projects
