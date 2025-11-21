@@ -6,7 +6,7 @@ A **passionate Java Developer** building the future with code.
 
 Stop copying URLs to Notepad. Save important tabs and find them weeks later without Chrome's 100+ -entry history mess.
  
-[![Available in the Chrome Web Store](https://i0.wp.com/yonatankra.com/wp-content/uploads/2022/08/chrome-webstore.png?w=496&ssl=1)](YOUR_CHROME_STORE_LINK)
+[![Available in the Chrome Web Store](https://i0.wp.com/yonatankra.com/wp-content/uploads/2022/08/chrome-webstore.png?w=496&ssl=1)](https://chromewebstore.google.com/detail/tab-story/nhjglpjgddjcjafdabmepgalnaejnleb)
 
 
 ## 🔥 Current Projects
