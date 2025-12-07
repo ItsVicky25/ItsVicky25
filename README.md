@@ -83,7 +83,7 @@ Stop copying URLs to Notepad. Save important tabs and find them weeks later with
   
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mrathaur704@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/manish-rathaur-80b40b24a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=firefox&logoColor=orange)](https://yourportfolio.com)
+
 [![Twitter](https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://x.com/mrathaur704)
 
 </div>
