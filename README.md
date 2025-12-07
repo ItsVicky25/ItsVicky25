@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manish
 
-A ** Java Developer** building the future with code.
+**A  Java Developer building the future with code.**
 
   ## <img src="https://s11.aconvert.com/convert/p3r68-cdx67/3jzpf-25zq6-001.ico" width="28" align="center" /> Tab Story
 
